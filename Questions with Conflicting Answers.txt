@@ -1,0 +1,10 @@
+Questions with Conflicting Answers
+What depreciation method is used for fixed assets?
+2024: Straight-Line Method
+2025: Double-Declining Balance Method
+Which inventory valuation method is applied?
+2024: FIFO (First-In, First-Out)
+2025: Weighted Average Cost
+When are accounts receivable reviewed for overdue status?
+2024: Accounts older than 90 days are reviewed monthly
+2025: Accounts older than 60 days are reviewed quarterly
